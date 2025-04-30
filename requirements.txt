@@ -1,0 +1,5 @@
+telethon==1.33.1
+ccxt==4.1.13
+python-dotenv==1.0.0
+pandas==2.1.4
+loguru==0.7.2 
